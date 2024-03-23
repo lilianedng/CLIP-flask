@@ -1,0 +1,13 @@
+roboflow_api_key: "rf_RgvORbklcNcEZL7kSuFyPUUHB5u2"  # Robofow API key
+video_path: "data/output.mp4" # Path to video file
+CLIP:
+  - "bed"
+  - "chair"
+  - "couch"
+  - "wall"
+  - "rug"
+  - "table"
+  - "door"
+  - "stairs"
+  - "television"
+  - "kitchen"
