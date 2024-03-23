@@ -1,6 +1,6 @@
 # CLIP Video Investigator
 
-![clip_video_investigator](media/overfiewGif.gif)
+![clip_video_investigator](media/CLIP.gif)
 
 ## Overview
 
@@ -11,8 +11,6 @@ CLIP Video Investigator is a Flask-based web application designed to compare tex
 3. Compare CLIP embeddings of video frames with text embeddings.
 4. Visualize the similarity between text and image embeddings in real-time using a Plotly plot.
 5. Jump to specific frames by clicking on the Plotly plot.
-
-Youtube video: https://www.youtube.com/watch?v=XllrtZnPL6M
 
 ### Why This is Useful
 
